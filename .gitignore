@@ -1,0 +1,15 @@
+build/
+out/
+*.exe
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.lib
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+data/generated/
+results/
